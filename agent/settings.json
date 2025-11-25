@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "x-web3-mcp": {
+      "httpUrl": "https://hoodl.net/mcp",
+      "headers": {
+        "authorization": "Bearer YOUR_API_KEY_HERE"
+      }
+    }
+  },
+  "privacy": {
+    "usageStatisticsEnabled": false
+  }
+}
