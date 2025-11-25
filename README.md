@@ -55,9 +55,8 @@ The MCP will return structured data that can include:
 
 ## Support
 For technical issues or feature requests, please:
-1. Check our [FAQ](https://hoodl.net/faq)
-2. Join our [Discord community](https://discord.gg/hoodl)
-3. Submit an issue on our [GitHub repository](https://github.com/hoodl-dev/hoodl-x-mcp)
+1. Submit an issue on our [GitHub repository]([https://github.com/hoodl-dev/hoodl-x-mcp](https://github.com/hoodl-dev/hoodl-x-mcp/issues))
+2. Join our [Discord community]([https://discord.gg/hoodl](https://discord.gg/7NdRTE22))
 
 ## About Hoodl
 Hoodl is a powerful influencer discovery platform that uses advanced algorithms to identify, vet, and rank creators across X. Our database is constantly updated with verified, active accounts to ensure you get the most reliable data for your campaigns.
